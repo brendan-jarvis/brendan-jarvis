@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Bio
-
 Full-stack web developer with a unique background in law and chemistry. Skilled in JavaScript, React, Express.js, Node, and Postgres/SQLite. Experienced in building and deploying full-stack web applications, consuming external APIs, and implementing access control with Auth0. Passionate about problem-solving and continuous learning.
 
 Notable projects include ['Seasoned'](https://seasoned.herokuapp.com/), a web app that allows users to view in-season produce and search for recipes, and ['Brew'](https://brew.onrender.com/), a personal project that allows users to search and view all-grain beer brewing recipes.
