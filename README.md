@@ -23,4 +23,4 @@ In addition to technical skills, I have developed strong human skills through pa
 
 Check out my current page at http://svelte-brendan-jarvis.vercel.app/ for more information on my work!
 
-![Brendan's GitHub stats](https://github-readme-stats.vercel.app/api?username=brendan-jarvis&count_private=true&show_icons=true&theme=synthwave) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendan-jarvis&layout=compact)](https://github.com/brendan-jarvis/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendan-jarvis&layout=compact)](https://github.com/brendan-jarvis/github-readme-stats)
