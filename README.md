@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a full-stack JavaScript web developer with a unique background in law and chemistry. Skilled in JavaScript, React, Express.js, Node, and Postgres/SQLite. Experienced in building and deploying full-stack web applications, consuming external APIs, and implementing access control with Auth0. Passionate about problem-solving and continuous learning; currently learning Svelte, TypeScript, and trying AI/ML with Python.
+💼 I’m currently working on Production Support for an ASP.NET MVC Framework 4.5 and Microsoft Azure Power Apps applications.
 
-Notable projects include ['Seasoned'](https://seasoned.herokuapp.com/), a web app that allows users to view in-season produce and search for recipes, and ['Brew'](https://brew.onrender.com/), a personal project that allows users to search and view all-grain beer brewing recipes.
+I am a full-stack JavaScript and ASP.NET web developer with a unique background in law and chemistry. Skilled in JavaScript, React, PL/SQL, and ASP.NET.
 
-In addition to technical skills, I have developed strong human skills through pair programming and group projects at Dev Academy.
+A notable personal project of mine is ['Whisper Subtitles'](https://github.com/brendan-jarvis/whisper_subtitles), a Python script that scans a directory then uses OpenAI Whisper library to generate .srt files with subtitles for compatible audio and video files.
 
 Check out my current page at http://svelte-brendan-jarvis.vercel.app/ for more information on my work!
 
